@@ -12,7 +12,7 @@ The Used Car Agency Database Management System is designed to facilitate the man
 
 - `presentation.pptx`: A PowerPoint presentation that provides an overview of the project, including its objectives, database design, data import, and SQL queries used for analysis.
 
-- `sql_code.sql`: The SQL code that includes the commands for creating the database tables, setting up primary keys, foreign keys, and performing data analysis using SQL queries.
+- `Bigdata-HW1...sql`: The SQL code that includes the commands for creating the database tables, setting up primary keys, foreign keys, and performing data analysis using SQL queries.
 
 ## Project Steps
 
