@@ -10,7 +10,7 @@ The Used Car Agency Database Management System is designed to facilitate the man
 
 ## Contents
 
-- `presentation.pptx`: A PowerPoint presentation that provides an overview of the project, including its objectives, database design, data import, and SQL queries used for analysis.
+- `presentation.pdf`: A PowerPoint presentation that provides an overview of the project, including its objectives, database design, data import, and SQL queries used for analysis.
 
 - `Bigdata-HW1...sql`: The SQL code that includes the commands for creating the database tables, setting up primary keys, foreign keys, and performing data analysis using SQL queries.
 
@@ -29,13 +29,13 @@ The Used Car Agency Database Management System is designed to facilitate the man
 
 2. Open MySQL Workbench or any other MySQL client.
 
-3. Run the `sql_code.sql` script in the MySQL client to create the database tables, set up relationships, and perform data analysis.
+3. Run the `Bigdata-HW1...sql` script in the MySQL client to create the database tables, set up relationships, and perform data analysis.
 
 ## Project Outcome
 
 The Used Car Agency Database Management System demonstrates the process of designing a relational database for a specific scenario, importing data, and performing data analysis using SQL queries. The SQL code provided in this repository showcases the implementation of these steps.
 
-For more details, refer to the `presentation.pptx` and `sql_code.sql` files.
+For more details, refer to the `presentation.pdf` and `Bigdata-HW1...sql` files.
 
 ## Acknowledgments
 
